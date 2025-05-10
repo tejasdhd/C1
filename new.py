@@ -18,19 +18,19 @@ from time import sleep
 # 🛠️ BOT CONFIGURATION
 # ======================
 TOKEN = '7052787265:AAHF9957hIRSGZtaENdHZAA_9Cx0iROS9k0'
-OWNER_USERNAME = "NEWAADMI"
-ADMIN_IDS = ["NEWAADMI", "LostBoiXD"]  # Add admin usernames here
+OWNER_USERNAME = "@Gx7_Admin_maiparadox_ka_baap"
+ADMIN_IDS = ["@Gx7_Admin_maiparadox_ka_baap"]  # Add admin usernames here
 ALLOWED_GROUP_IDS = [-1002569945697]
-MAX_THREADS = 500
+MAX_THREADS = 250
 MAX_DURATION = 150
-SPECIAL_MAX_THREADS = 900
+SPECIAL_MAX_THREADS = 250
 SPECIAL_MAX_DURATION = 150
-VIP_MAX_THREADS = 1500
-VIP_MAX_DURATION = 300
+VIP_MAX_THREADS = 250
+VIP_MAX_DURATION = 250
 PACKET_SIZE = 1024
 ACTIVE_VPS_COUNT = 4
-BINARY_PATH = "/home/master/freeroot/root/pushpa"
-BINARY_NAME = "pushpa"
+BINARY_PATH = "/home/master/C1/golemxtop"
+BINARY_NAME = "golemxtop"
 REQUEST_DELAY = 0.3  # Delay between API requests in seconds
 KEY_PRICES = {
     "10M": 5,
